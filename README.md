@@ -4,7 +4,7 @@
 
 Whisper is a sleek and secure web application that allows users to send anonymous emails. Built with Next.js, Tailwind CSS, and powered by EmailJS, it provides a minimal and intuitive interface for sending messages without revealing the sender's identity.
 
-![Whisper Screenshot](./preview.png)
+![Whisper Screenshot](public/preview.png)
 
 ## ✨ Features
 
