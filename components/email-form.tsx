@@ -162,7 +162,7 @@ export default function EmailForm({ onSuccess }: EmailFormProps) {
 						htmlFor="image"
 						className="block text-sm font-normal text-white mb-2"
 					>
-						Attach Image (Optional, max 1MB)
+						Attach Image (Optional)
 					</label>
 					<input
 						type="file"
